@@ -83,3 +83,15 @@ Developed with a focus on:
 - Assistive technology accessibility
 - Transparent AI decision making
 
+## Model Download: 
+- YOLOv8n – Ultra-lightweight model for fast predictions
+
+- YOLOv8s – Small model balancing speed and accuracy
+
+- YOLOv8l – Large model for improved detection accuracy
+
+- ImgPredict – Custom wrapper or prediction script for inference pipeline
+-  Download Models - https://drive.google.com/drive/folders/1Fj_cqwRQ_14IqEUa-l3BoqeZjOTZldEk?usp=sharing
+
+
+
